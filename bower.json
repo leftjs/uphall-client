@@ -1,0 +1,26 @@
+{
+  "name": "tms_client",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jason"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Task",
+    "Management"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6"
+  }
+}
